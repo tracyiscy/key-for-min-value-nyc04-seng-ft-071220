@@ -10,5 +10,5 @@ def find_min(array)
   puts min
 end
 
-array=[1,2,3,-10,5]
+array=[1,2,-23,-10,5]
 find_min(array)
