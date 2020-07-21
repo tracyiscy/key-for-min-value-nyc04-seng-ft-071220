@@ -10,9 +10,8 @@ def key_for_min_value(name_hash)
       if min>i
         min=i
       end
-      puts min
     end
-    puts min
+    puts i
   }
 end
 
