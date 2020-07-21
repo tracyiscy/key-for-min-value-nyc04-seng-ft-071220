@@ -6,8 +6,8 @@ def find_min(array)
       min=array[i]
     end
     i+=1
-    puts min
   end
+  puts min
 end
 
 array=[1,2,3,-10,5]
