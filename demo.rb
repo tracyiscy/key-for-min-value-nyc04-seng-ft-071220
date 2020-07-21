@@ -7,6 +7,7 @@ def find_min(array)
     end
     i+=1
   end
+  min
 end
 
 array=[1,2,3,4,5]
